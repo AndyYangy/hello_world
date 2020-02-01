@@ -2,4 +2,4 @@
 
 Hello!everyone
 
-My name is sanyuyeung, Let's start a new journey
+My name is sanyuyeung, Let's start a new Git journey
